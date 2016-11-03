@@ -1,2 +1,5 @@
 # hello-world
-A whole new start
+
+Hello, world!
+
+Let's start to rock!
